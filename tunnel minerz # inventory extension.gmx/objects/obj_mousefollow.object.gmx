@@ -44,7 +44,7 @@ obj_slot.place = false;
 }
 }
 } else {
-obj_slot.place = false;
+obj_slot.place = true;
 }
 </string>
           </argument>

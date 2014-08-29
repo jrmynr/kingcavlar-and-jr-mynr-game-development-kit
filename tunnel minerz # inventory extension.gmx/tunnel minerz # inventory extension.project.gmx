@@ -81,7 +81,7 @@
       <object>objects\obj_worldgen</object>
       <object>objects\obj_steve</object>
       <object>objects\obj_stevehand</object>
-      <object>objects\obj_stevehead</object>
+      <object>objects\obj_nothingsh</object>
     </objects>
     <objects name="grp_block">
       <object>objects\obj_grass</object>
@@ -128,11 +128,11 @@
       <object>objects\obj_invslot1</object>
       <object>objects\obj_invslot2</object>
       <object>objects\obj_invslot3</object>
-      <object>objects\obj_invslot8</object>
       <object>objects\obj_invslot4</object>
       <object>objects\obj_invslot5</object>
       <object>objects\obj_invslot6</object>
       <object>objects\obj_invslot7</object>
+      <object>objects\obj_invslot8</object>
       <object>objects\obj_invslot9</object>
       <object>objects\obj_invslot10</object>
       <object>objects\obj_invslot11</object>
